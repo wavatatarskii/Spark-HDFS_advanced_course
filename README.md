@@ -1,4 +1,4 @@
-# Spark-HDFS_for_beginners
+# Spark-HDFS_course
 
 The practice project on Apache Spark for Scala and Apache Hadoop File System implementation
 
